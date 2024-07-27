@@ -29,8 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
             { name: 'CSS', url: 'skills/css.png', link: 'https://developer.mozilla.org/en-US/docs/Web/CSS' },
             { name: 'JavaScript', url: 'skills/js.png', link: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript' },
             { name: 'Flask', url: 'skills/flask.png', link: 'https://flask.palletsprojects.com/' },
-            { name: 'SQL', url: 'skills/sql.png', link: 'https://www.mysql.com/' },
-            { name: 'Docker', url: 'skills/docker.png', link: 'https://www.docker.com/' }
+            { name: 'SQL', url: 'skills/sql.png', link: 'https://www.mysql.com/' }
         ];
 
         skills.forEach((skill, index) => {
